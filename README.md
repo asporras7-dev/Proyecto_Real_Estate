@@ -1,6 +1,6 @@
 # Proyecto Real State
 
-Plataforma integral orientada a la gestión y visualización del sector inmobiliario. Permite a los usuarios explorar inmuebles disponibles mediante interfaces intuitivas, mientras que la administración controla el inventario de propiedades y gestiona a los usuarios registrados.
+Plataforma integral orientada a la gestión y visualización del sector inmobiliario de una empresa. Permite a los clientes explorar inmuebles disponibles mediante interfaces intuitivas y contactarse directamente con dicha empresa, mientras que la administración controla el inventario de propiedades, gestiona a los usuarios registrados y recibe la información de contacto por parte de los clientes.
 
 ---
 
