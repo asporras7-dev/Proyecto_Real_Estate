@@ -65,9 +65,9 @@ Aunque el proyecto fue desarrollado y probado para operar en entornos locales, s
 ## Instalación y Ejecución Local (Guía Paso a Paso)
 
 <details>
-<summary><b>🛠️ Haz clic aquí para ver la Guía de Instalación y Ejecución Local</b></summary>
+<summary><b>Haz clic aquí para ver la Guía de Instalación y Ejecución Local</b></summary>
 
-### 🛠️ 1. Prerrequisitos
+### 1. Prerrequisitos
 - **XAMPP / WAMP / MAMP** (Para servidor Apache y MySQL local) o Docker.
 - [Node.js](https://nodejs.org/) (Para el empaquetado de assets frontend).
 - **Composer** (Para manejar dependencias PHP).
