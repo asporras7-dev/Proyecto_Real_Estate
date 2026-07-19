@@ -74,7 +74,7 @@ Aunque el proyecto fue desarrollado y probado para operar en entornos locales, s
 
 ### 2. Clonar el Repositorio
 ```bash
-git clone https://github.com/TuUsuario/Proyecto_Real_State.git
+git clone https://github.com/asporras7-dev/Proyecto_Real_Estate.git
 cd Proyecto_Real_State
 ```
 
