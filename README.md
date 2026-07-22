@@ -39,7 +39,7 @@ La aplicación está diseñada para atender tanto a clientes finales como a agen
 
 ---
 
-## Valor de Negocio y Logros Técnicos (Highlights para Reclutadores)
+## Valor de Negocio y Logros Técnicos
 
 Este proyecto destaca por aplicar conceptos de desarrollo de software corporativo y arquitecturas orientadas a servicios (SOA):
 
